@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\bin\Debug\net6.0\ClassesEncapsulationTasks2.exe
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\bin\Debug\net6.0\ClassesEncapsulationTasks2.deps.json
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\bin\Debug\net6.0\ClassesEncapsulationTasks2.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\bin\Debug\net6.0\ClassesEncapsulationTasks2.dll
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\bin\Debug\net6.0\ClassesEncapsulationTasks2.pdb
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ClassesEncapsulationTasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ClassesEncapsulationTasks2.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ClassesEncapsulationTasks2.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ClassesEncapsulationTasks2.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ClassesEncapsulationTasks2.dll
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\refint\ClassesEncapsulationTasks2.dll
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ClassesEncapsulationTasks2.pdb
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ClassesEncapsulationTasks2.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\ClassesEncapsulationTasks2\obj\Debug\net6.0\ref\ClassesEncapsulationTasks2.dll
